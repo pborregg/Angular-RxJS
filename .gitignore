@@ -1,16 +1,1 @@
-typings
-**/app/**/*.js
-**/app/**/*.map
-node_modules
-jspm_packages
-bower_components
-
-**/*.log/*.*
-**/*.log
-
-.vs
-**/*.sou
-**/*.user
-bin
-obj
-packages
+/nbproject/private/
